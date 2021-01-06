@@ -1,0 +1,217 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px;
+}
+nav {
+    background-color: white;
+    height: 80px;
+    width: 100%;
+}
+.mylogo {
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+nav ul {
+    float: right;
+    margin-right: 20px;
+    padding: 0 100px;
+    
+    
+}
+nav ul li {
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+}
+nav ul li a {
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+a.active,a:hover{
+    color: rgb(48, 190, 247);
+    transition: .5s;
+}
+h1 {
+    font-size: 50px;
+    text-transform: uppercase;
+    line-height: 16px;
+    font-weight: 600;
+}
+#myname {
+    color: rgb(20, 195, 207);
+}
+#btn {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(34, 205, 218), rgb(11, 119, 146));
+    padding: 10px 20px;
+    border-radius: 05px;
+    color: white;
+    box-shadow: 10px 10px 23px rgb(187, 185, 185);
+}
+#btn:hover{
+    color: rgb(0, 0, 0);
+}
+p {
+    margin-bottom: 25px;
+    text-align: justify;
+}
+.half {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+h3 {
+    line-height: 0px;
+    margin-top: 70px;
+}
+.half img{
+    width: 80%;
+}
+#top {
+    margin-top: 60px;
+}
+#sec-img {
+    margin-top: 20px;
+}
+#about {
+    margin-top: 110px;
+}
+section {
+    height: 500px;
+}
+#latest {
+   text-align: center;
+   padding-top: 90px;
+   padding-bottom: 30px ;
+}
+#latest2{
+    text-align: center;
+   padding-bottom: 30px ;
+}
+#third-sec {
+    background-color: rgba(240, 240, 240, 0.767);
+    height: 650px;
+}
+.works {
+    width: 22%;
+    float: left;
+    margin-left: 6%;
+    background-color: white;
+    padding: 20px 20px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 35px rgb(184, 184, 184);
+    padding-bottom: 33px;
+    
+}
+.works img {
+    width: 100%;
+}
+h4 {
+    font-size: 24px;
+    line-height: 0px;
+    margin-bottom: 0px;
+}
+h6 {
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 24px;
+}
+.btn {
+    text-decoration: none;
+    background-image: linear-gradient(25deg,  rgb(12, 171, 192), rgb(255, 255, 255));
+    padding: 10px 20px;
+    border-radius: 05px;
+    color: rgb(253, 253, 253);
+}
+.btn:hover{
+    color: rgb(0, 0, 0);
+}
+.half-inquiry {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+#inquiry {
+    background-image: url("img/Group_33094_1.png");
+    background-repeat: no-repeat;
+    padding: 90px;
+    height: 16px;
+    margin: 160px;
+    border-radius: 0px;
+
+}
+.text-inq {
+    color: rgb(255, 255, 255);
+    margin-top: -1px;
+}
+.btn2 {
+    margin-left: 210px;
+    border-radius: 05px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    background-image: linear-gradient( rgb(255, 255, 255), rgb(255, 255, 255));
+    padding: 15px 30px;   
+}
+span {
+    color:  rgb(20, 195, 207);
+}
+
+.testi-half {
+    width: 40%;
+    float: left;
+    margin: 3%;
+    padding: 2%;
+    box-shadow: 10px 10px 30px grey;
+    border-top: 7px solid royalblue;
+}
+.hud-img {
+    margin-left: 40px;
+}
+.hud {
+    margin-left: 40px;
+}
+#foot {
+    margin-top: 0px;
+    color: white;
+    font-family: serif;
+    margin-left: 20px;
+
+
+    
+}
+#footer {
+    text-align: center;
+    background-color: black;
+    height: 140px;
+}
+#testi-sec {
+    height: 700px;
+}
+#stay {
+    color: white;
+    padding-top: 24px;
+    font-family: serif;
+    margin-left: 20px;
+}
+blockquote {
+    text-align: justify;
+}
+footer img {
+    width: 35px;
+    height: 35px;
+    margin-top:13px;
+}
+footer ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
